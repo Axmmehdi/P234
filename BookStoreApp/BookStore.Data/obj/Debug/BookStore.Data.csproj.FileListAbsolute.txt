@@ -1,0 +1,9 @@
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\bin\Debug\BookStore.Data.dll
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\bin\Debug\BookStore.Data.pdb
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\obj\Debug\BookStore.Data.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\obj\Debug\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\obj\Debug\BookStore.Data.dll
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\obj\Debug\BookStore.Data.pdb
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\bin\Debug\BookStore.Core.dll
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\bin\Debug\BookStore.Core.pdb
+C:\Users\ahmed\source\repos\BookStoreApp\BookStore.Data\obj\Debug\BookStore.Data.csproj.CopyComplete

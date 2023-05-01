@@ -1,0 +1,6 @@
+C:\Users\ahmed\source\repos\scooltask1\book.core\bin\Debug\book.core.dll
+C:\Users\ahmed\source\repos\scooltask1\book.core\bin\Debug\book.core.pdb
+C:\Users\ahmed\source\repos\scooltask1\book.core\obj\Debug\BookApp.core.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\scooltask1\book.core\obj\Debug\BookApp.core.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\scooltask1\book.core\obj\Debug\book.core.dll
+C:\Users\ahmed\source\repos\scooltask1\book.core\obj\Debug\book.core.pdb
