@@ -1,0 +1,6 @@
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\bin\Debug\CustomList.COre.dll
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\bin\Debug\CustomList.COre.pdb
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\obj\Debug\CustomList.COre.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\obj\Debug\CustomList.COre.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\obj\Debug\CustomList.COre.dll
+C:\Users\ahmed\source\repos\CustomList\CustomList.COre\obj\Debug\CustomList.COre.pdb
