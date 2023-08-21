@@ -1,0 +1,17 @@
+﻿@using BackendMVC1.Models;
+@model List<CarModel>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<ul>
+    @foreach (CarModel carmodel in Model)
+    {
+        <a>
+        <li>Modelin adı:@carmodel.Name</li>
+        </a>
+    }
+</ul>
+

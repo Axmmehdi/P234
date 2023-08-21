@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+
+<ul>
+    <li>Modelin adi: @Model.Name</li>
+    <li>Yarandıqı ölkə: @Model.Country</li>
+    <li>Yarandıqı Tarix: @Model.</li>
+
+    <a asp-controller="Model1" asp-action="Index" asp-route-id="@Model.Id">Markalar</a>
+</ul>

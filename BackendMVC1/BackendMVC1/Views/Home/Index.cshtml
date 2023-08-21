@@ -1,0 +1,22 @@
+﻿@using BackendMVC1.Models;
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@model List<Marka>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<ul>
+
+    @foreach (Marka marks in Model)
+    {
+        <a asp-controller="Home" asp-action="Details" asp-router-id="@marks.Id">
+        <li>@marks.Name</li>
+
+        </a>
+    }
+
+</ul>
